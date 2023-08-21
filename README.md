@@ -1,2 +1,2 @@
-# run_dom
+# rundom
 Roulette for random distribution of players (created for football)
